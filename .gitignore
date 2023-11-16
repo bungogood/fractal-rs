@@ -1,0 +1,10 @@
+# Editor
+.vscode/
+
+# Rust
+debug/
+target/
+
+# Project
+logs/
+/data/
