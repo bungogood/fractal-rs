@@ -2,6 +2,8 @@
 
 [![Build](../../actions/workflows/build.yaml/badge.svg)](../../actions/workflows/build.yaml) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+![Mandelbrot Set](./examples/mandelbrot.png)
+
 **Fractal-rs** is a fractal visualization tool crafted in Rust, designed to generate a wide array of complex and beautiful fractals. Using [Rust](<https://en.wikipedia.org/wiki/Rust_(programming_language)>) along with [Rayon](https://docs.rs/rayon/latest/rayon), enabling it to produce high-resolution images of various fractal patterns. The tool offers configurable color gradients and a diverse selection of fractal generation algorithms, combining performance with visual versatility.
 
 ## Fractals
